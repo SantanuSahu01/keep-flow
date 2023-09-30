@@ -1,0 +1,12 @@
+{
+    "name": "local",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "local_flows.json",
+            "credentialsFile": "local_flows_cred.json"
+        }
+    }
+}
